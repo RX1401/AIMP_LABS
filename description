@@ -1,0 +1,5 @@
+Designed and built a quadcopter drone from scratch using ESP32/Arduino as the flight controller. Integrated the MPU6050 for real-time orientation and stabilization, and implemented basic flight control logic using sensor fusion techniques.
+
+Developed motor control circuitry using MOSFETs to drive high-speed drone motors efficiently, ensuring proper power management and switching. Enabled wireless control via a Bluetooth module, allowing remote navigation and command transmission.
+
+Gained hands-on experience in embedded systems, sensor interfacing, control systems, and hardware debugging, along with practical exposure to real-time signal processing and flight stabilization challenges.
